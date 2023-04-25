@@ -51,7 +51,7 @@ android {
 
 dependencies {
 
-    implementation("com.github.skydoves:balloon:1.5.3")
+    implementation("com.github.skydoves:balloon-compose:1.5.3")
 
     implementation("androidx.core:core-ktx:1.10.0")
     implementation("androidx.lifecycle:lifecycle-runtime-ktx:2.6.1")

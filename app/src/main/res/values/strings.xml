@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Balloon test</string>
+    <string name="tooltip_title">انتخاب نوع سفارش</string>
+    <string name="tooltip_des">در این بخش می‌توانید سفارش‌‌های فعال سایر کاربران را مشاهده نمایید. سفارش‌های فروش در بالا به رنگ قرمز و سفارش‌های خرید در پایین به رنگ سبز هستند.</string>
 </resources>
